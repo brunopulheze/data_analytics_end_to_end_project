@@ -14,17 +14,15 @@ This project analyzes tech job market trends in the United States by performing 
 - Examine job type preferences (full-time, contract, part-time, etc.)
 - Provide actionable insights for job seekers and employers
 
+# Visit the final Tableau dashboard here: [Tech Jobs Market Analysis Dashboard](https://public.tableau.com/views/Indeed_com-USTechJobs2024Overview/PublicPresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 📁 Datasets
 
-This project utilizes two comprehensive Kaggle datasets:
+This project utilizes one comprehensive Kaggle dataset:
 
 1. **[100K US Tech Jobs - Winter 2024](https://www.kaggle.com/datasets/christopherkverne/100k-us-tech-jobs-winter-2024?resource=download)**
    - Contains extensive job listings from the U.S. tech sector
    - Includes salary information, locations, and job types
-
-2. **[Tech Job Listings with Skills and Demand 2024-25](https://www.kaggle.com/datasets/umarrehankhan/tech-job-listings-with-skills-and-demand-2024-25)**
-   - Provides additional insights into skills requirements and market demand
-   - Complements the first dataset with skill-based analysis
 
 ## 🔧 Project Workflow
 
@@ -98,8 +96,6 @@ Created interactive Tableau dashboards to:
 data_analytics_end_to_end_project/
 ├── data-cleaning.ipynb          # Main notebook with data cleaning and wrangling
 ├── README.md                     # Project documentation
-└── output/
-    └── cleaned_all_jobs.csv     # Clean, processed dataset ready for analysis
 ```
 
 ## 🚀 Getting Started
