@@ -14,7 +14,7 @@ This project analyzes tech job market trends in the United States by performing 
 - Examine job type preferences (full-time, contract, part-time, etc.)
 - Provide actionable insights for job seekers and employers
 
-# Visit the final Tableau dashboard here: [Tech Jobs Market Analysis Dashboard](https://public.tableau.com/views/Indeed_com-USTechJobs2024Overview/PublicPresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# 📊 Visit the final Tableau dashboard here: [Tech Jobs Market Analysis Dashboard](https://public.tableau.com/views/Indeed_com-USTechJobs2024Overview/PublicPresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📁 Datasets
 
